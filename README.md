@@ -1,0 +1,2 @@
+# cfwork-to-python
+cfwork无损让AI大模型转为python本地版本，绕过cfwork子请求50次限制等等一日十万次套餐请求限制
